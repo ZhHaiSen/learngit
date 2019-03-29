@@ -1,0 +1,24 @@
+有漏洞，对于开始为若干个0的长数据排序有误
+void sort(int array[],int n)
+{
+	int a=0,b=n-1,i=0,t;   
+	while(i<=b)
+	{
+		if(array[i]==2)   //如果当前数为2就放到数组后半部分
+		{
+			t=array[i];
+			array[i]=array[b];
+			array[b]=t;
+			b--;
+		}
+		if(array[i]==0)   //如果当前数为0就放到数组前半部分
+		{
+			t=array[i];
+			array[i]=array[a];
+			array[a]=t;
+			a++;
+		}
+		if(array[i]==1)   //直到当前数为1，则判断下一个数
+			i++;
+	}
+}
