@@ -1,0 +1,50 @@
+﻿  library.c
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\library.c(33): warning C4133: “=”: 从“Book *”到“Borrow *”的类型不兼容
+  main.c
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\main.c(58): warning C4013: “malloc”未定义；假设外部返回 int
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\main.c(81): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+  e:\vs2017\代码\图书管理系统\图书管理系统\源代码\main.c(81): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\main.c(82): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+  e:\vs2017\代码\图书管理系统\图书管理系统\源代码\main.c(82): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\main.c(83): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+  e:\vs2017\代码\图书管理系统\图书管理系统\源代码\main.c(83): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\main.c(84): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+  e:\vs2017\代码\图书管理系统\图书管理系统\源代码\main.c(84): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\main.c(87): warning C4133: “=”: 从“Borrow *”到“Borrow *”的类型不兼容
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\main.c(91): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+  e:\vs2017\代码\图书管理系统\图书管理系统\源代码\main.c(91): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\main.c(92): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+  e:\vs2017\代码\图书管理系统\图书管理系统\源代码\main.c(92): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\main.c(93): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+  e:\vs2017\代码\图书管理系统\图书管理系统\源代码\main.c(93): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\main.c(94): warning C4133: “函数”: 从“Borrow *”到“Borrow *”的类型不兼容
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\main.c(144): warning C4133: “=”: 从“Borrow *”到“Borrow *”的类型不兼容
+  managebook.c
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(21): warning C4013: “malloc”未定义；假设外部返回 int
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(63): warning C4133: “=”: 从“Borrow *”到“Borrow *”的类型不兼容
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(327): warning C4133: “函数”: 从“Borrow *”到“Borrow *”的类型不兼容
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(369): warning C4133: “=”: 从“Borrow *”到“Borrow *”的类型不兼容
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(418): warning C4133: “函数”: 从“Borrow *”到“Borrow *”的类型不兼容
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(469): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(473): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(477): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(513): warning C4133: “=”: 从“Borrow *”到“Borrow *”的类型不兼容
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(553): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 7 拥有了类型“unsigned int”
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(559): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(559): note: 占位符和其参数预计 3 可变参数，但提供的却是 0 参数
+  e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(559): note: 缺失的可变参数 1 为格式字符串“%d”所需
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(565): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(565): note: 占位符和其参数预计 3 可变参数，但提供的却是 0 参数
+  e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(565): note: 缺失的可变参数 1 为格式字符串“%d”所需
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(635): warning C4133: “=”: 从“Borrow *”到“Borrow *”的类型不兼容
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(666): warning C4133: “=”: 从“Borrow *”到“Borrow *”的类型不兼容
+  show.c
+  正在生成代码
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\library.c(93): warning C4715: “DeleteBook”: 不是所有的控件路径都返回值
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\library.c(76): warning C4715: “DeleteBorrow”: 不是所有的控件路径都返回值
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(572): warning C4715: “reservebook”: 不是所有的控件路径都返回值
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(427): warning C4715: “bookreturn”: 不是所有的控件路径都返回值
+e:\vs2017\代码\图书管理系统\图书管理系统\源代码\managebook.c(336): warning C4715: “bookborrow”: 不是所有的控件路径都返回值
+  All 36 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  图书管理系统.vcxproj -> E:\vs2017\代码\图书管理系统\Release\图书管理系统.exe
